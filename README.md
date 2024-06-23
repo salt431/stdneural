@@ -1,0 +1,1 @@
+This C++ code represents a simple neural network with one hidden layer, sigmoid activation, and backpropagation for training. It defines a NeuralNetwork class with methods for training, prediction, and weight initialization. The network is trained on a few examples and then used for a prediction at the end.
